@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TaboogTask_productdetails</string>
+    <string name="Reviews_en">Reviews</string>
+    <string name="Description_en">Description</string>
+    <string name="Specification_en">Specification</string>
+    <string name="KeyFeatures_en">Key Features</string>
+    <string name="PaySecurity_en">Pay Security</string>
+    <string name="Reviews_ar">التقيمات</string>
+    <string name="Description_ar">الوصف</string>
+    <string name="Specification_ar">الخصائص</string>
+    <string name="KeyFeatures_ar">اهم الميزات</string>
+    <string name="PaySecurity_ar">ادفع بامان</string>
+    <string name="articalnmber_en">Artical Number  </string>
+    <string name="modelnumber_en">Model Number </string>
+    <string name="brand_en">Brand</string>
+    <string name="color_en">Color</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="wishlist_en">Add to Wishlist</string>
+    <string name="add_to_cart_en">Add to Cart</string>
+
+</resources>
